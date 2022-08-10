@@ -1,0 +1,46 @@
+{
+    "enmFactionType": [
+        { "codigo": "0", "descripcion": "Días" },
+        { "codigo": "1", "descripcion": "Horas" },
+        { "codigo": "2", "descripcion": "Minutos" },
+        { "codigo": "3", "descripcion": "Segundos" }
+    ],
+    "enmAction": [
+        { "codigo": "0", "descripcion": "Activar Usuario" },
+        { "codigo": "1", "descripcion": "Activar Cuenta" },
+        { "codigo": "2", "descripcion": "Resetear Password" }
+    ],
+    "enmTipoUsuario": [
+        { "codigo": "0", "descripcion": "Amigo Poblado" },
+        { "codigo": "1", "descripcion": "Cliente Poblado"},
+        { "codigo": "2", "descripcion": "Usuario CRM" },
+        { "codigo": "3", "descripcion": "Usuario ERP" }
+    ],
+    "enmTipoTel": [
+        { "codigo": "0", "descripcion": "Fijo" },
+        { "codigo": "1", "descripcion": "Celular" }
+    ],
+    "enmUsoTel": [
+        { "codigo": "0", "descripcion": "Personal" },
+        { "codigo": "1", "descripcion": "Laboral" }
+    ],
+    "enmTipoComercial": [
+        { "codigo": "0", "descripcion": "Lider" },
+        { "codigo": "1", "descripcion": "Gestor"},
+        { "codigo": "2", "descripcion": "Asesor" }
+    ],
+    "enmTipoCuenta": [
+        { "codigo": "0", "descripcion": "Ahorro" },
+        { "codigo": "1", "descripcion": "Corriente"},
+        { "codigo": "2", "descripcion": "Ahorro cats" }
+    ],
+    "enmTipoRelacion": [
+        { "codigo": "0", "descripcion": "Familiar" },
+        { "codigo": "1", "descripcion": "Amigo"},
+        { "codigo": "2", "descripcion": "Vecino" },
+        { "codigo": "3", "descripcion": "Compañero de trabajo" },
+        { "codigo": "4", "descripcion": "Compañero de estudios" },
+        { "codigo": "5", "descripcion": "Otro" }
+    ]
+}
+
